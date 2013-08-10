@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Standard E-Mail-Validierung
 ---
 ### Standard E-Mail-Validierung
